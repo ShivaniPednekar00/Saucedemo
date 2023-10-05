@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-05T13:14:52 IST" name="Default suite" finished-at="2023-10-05T13:15:14 IST" duration-ms="21929">
+    <groups>
+    </groups>
+    <test started-at="2023-10-05T13:14:52 IST" name="Default test" finished-at="2023-10-05T13:15:14 IST" duration-ms="21929">
+      <class name="Calling_Page.Calling_Page">
+        <test-method is-config="true" signature="browser()[pri:0, instance:Calling_Page.Calling_Page@4b013c76]" started-at="2023-10-05T13:14:43 IST" name="browser" finished-at="2023-10-05T13:14:52 IST" duration-ms="9850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="methods()[pri:0, instance:Calling_Page.Calling_Page@4b013c76]" started-at="2023-10-05T13:14:53 IST" name="methods" finished-at="2023-10-05T13:15:14 IST" duration-ms="21793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methods -->
+      </class> <!-- Calling_Page.Calling_Page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
